@@ -5,4 +5,4 @@ for(i=0;i<5;i++){
 	console.log(arr[i]);
 };
 
-console.log('Hello World');
+console.log('New Code');
